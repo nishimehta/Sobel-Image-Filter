@@ -4,8 +4,7 @@
 Created on Mon Sep 17 19:22:42 2018
 
 @author: nishimehta
-#person 50291671
-#ubit nishimeh
+
 """
 
 import cv2
